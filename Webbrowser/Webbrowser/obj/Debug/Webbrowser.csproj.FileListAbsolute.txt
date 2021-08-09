@@ -5,3 +5,10 @@ C:\Users\Kevin\Desktop\Webbrowser\Webbrowser\obj\Debug\Webbrowser.csprojAssembly
 C:\Users\Kevin\Desktop\Webbrowser\Webbrowser\obj\Debug\Webbrowser.csproj.CoreCompileInputs.cache
 C:\Users\Kevin\Desktop\Webbrowser\Webbrowser\obj\Debug\Webbrowser.exe
 C:\Users\Kevin\Desktop\Webbrowser\Webbrowser\obj\Debug\Webbrowser.pdb
+C:\Git\Webbrowser\Webbrowser\Webbrowser\bin\Debug\Webbrowser.exe.config
+C:\Git\Webbrowser\Webbrowser\Webbrowser\bin\Debug\Webbrowser.exe
+C:\Git\Webbrowser\Webbrowser\Webbrowser\bin\Debug\Webbrowser.pdb
+C:\Git\Webbrowser\Webbrowser\Webbrowser\obj\Debug\Webbrowser.csprojAssemblyReference.cache
+C:\Git\Webbrowser\Webbrowser\Webbrowser\obj\Debug\Webbrowser.csproj.CoreCompileInputs.cache
+C:\Git\Webbrowser\Webbrowser\Webbrowser\obj\Debug\Webbrowser.exe
+C:\Git\Webbrowser\Webbrowser\Webbrowser\obj\Debug\Webbrowser.pdb
